@@ -1,2 +1,2 @@
 # Prediction-of-Heart-Disease-Using-Machine-Learning
-it is my Final year project
+Predicting Heart Disease Using Machine Learning is a final year project aimed at developing a predictive model to identify individuals at risk of heart disease. Leveraging advanced machine learning algorithms, this project aims to analyze various medical parameters and historical data to provide early detection and intervention strategies, contributing to proactive healthcare management and improved patient outcomes.
